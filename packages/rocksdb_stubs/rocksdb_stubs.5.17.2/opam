@@ -14,7 +14,7 @@ build: [
 ]
 url {
   src:
-    "https://github.com/facebook/rocksdb/archive/refs/tags/v5.17.2.tar.gz"
+    "https://github.com/facebook/rocksdb/archive/refs/tags/v10.0.1.tar.gz"
   checksum:
-    "sha256=101f05858650a810c90e4872338222a1a3bf3b24de7b7d74466814e6a95c2d28"
+    "sha256=3fdc9ca996971c4c039959866382c4a3a6c8ade4abf888f3b2ff77153e07bf28"
 }
